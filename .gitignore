@@ -1,0 +1,32 @@
+# Unreal Engine игнорируемые файлы
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+.vscode/
+*.sln
+*.suo
+*.xcodeproj/
+*.xcworkspace/
+
+# Git LFS файлы
+*.uasset
+*.umap
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tga
+*.psd
+*.dds
+*.exr
+*.hdr
+*.fbx
+*.obj
+*.blend
+*.wav
+*.mp3
+*.ogg
+*.flac
